@@ -42,4 +42,4 @@ int isPrime(int num) {
 
 int isPrimePalindrome(int num) {
     return isPrime(num) && num == reverseDigits(num);
-}   
+}   !
